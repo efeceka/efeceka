@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Efe!
 
-I'm a **Mechatronics Engineer** who develops **modern, fast, and SEO-friendly websites** as a **freelance web developer**.  
-I focus on creating clean, high-performing, and visually appealing web experiences that help businesses strengthen their online presence.
+I'm a **Mechatronics Engineer** who builds **modern, fast, and SEO-driven web platforms** as a **freelance web developer**.  
+I focus on clean architecture, performance, multilingual systems, and measurable digital growth.
 
 ---
 
@@ -9,8 +9,10 @@ I focus on creating clean, high-performing, and visually appealing web experienc
 
 | Project | Description | Live Site |
 |----------|--------------|-----------|
-| **Teerot Golf & Travel** | A modern and elegant website for a golf travel company, designed for a premium user experience. (Next.js + Tailwind CSS + Sanity CMS) | [teerot.com](https://teerot.com) |
-| **Detroit Engine** | Corporate website for a company supplying diesel engines and parts worldwide. (Next.js + Tailwind CSS + SEO Optimization) | [detroitengine.com](https://detroitengine.com.tr) |
+| **Dr. Keskin Clinic** | A comprehensive medical web platform with multilingual structure and Supabase-based appointment system. Includes GA4 setup and Google Ads management. (Next.js + Supabase + Tailwind CSS) | [kardiokeskin.ch](https://kardiokeskin.ch) |
+| **CardioNK Clinic** | A multilingual medical website with performance-focused architecture and analytics integration. GA4 implementation and Google Ads monitoring included. (Next.js + Tailwind CSS) | [cardionk.ch](https://cardionk.ch) |
+| **Teerot Golf & Travel** | A modern and elegant website for a golf travel company, designed for a premium user experience with dynamic CMS integration. (Next.js + Tailwind CSS + Sanity CMS) | [teerot.com](https://teerot.com) |
+| **Detroit Engine** | Corporate website for a company supplying diesel engines and parts worldwide. SEO-optimized and performance-driven structure. (Next.js + Tailwind CSS + Sanity CMS) | [detroitengine.com.tr](https://detroitengine.com.tr) |
 
 > 🔒 Source code is kept private due to client confidentiality.  
 > Live sites are available for public viewing.
@@ -19,18 +21,20 @@ I focus on creating clean, high-performing, and visually appealing web experienc
 
 ## 🧠 Tech Stack
 
-**Frontend:** Next.js • React • Tailwind CSS  
-**Backend / CMS:** Sanity CMS • Firebase • MongoDB  
-**Tools:** Git • Vercel • Figma • Photoshop  
-**Languages:** JavaScript • TypeScript • HTML • CSS
+**Frontend:** Next.js • React • Tailwind CSS • TypeScript  
+**Backend / Database:** Supabase • PostgreSQL • Sanity CMS • MongoDB • Firebase  
+**Analytics & Marketing:** Google Analytics 4 • Google Ads • Meta Ads • SEO Optimization  
+**Tools:** Git • Vercel • Figma • PostCSS • ESLint  
+**Languages:** JavaScript • TypeScript • HTML • CSS  
 
 ---
 
 ## 🎯 Interests
 
-- Frontend development and UI/UX design  
-- Automation systems and data monitoring software  
-- SEO optimization and digital marketing  
+- Frontend architecture and UI/UX systems  
+- Multilingual (i18n) web platforms  
+- Performance optimization & Core Web Vitals  
+- Data-driven marketing and analytics  
 - Mobile app development with React Native  
 
 ---
@@ -38,9 +42,9 @@ I focus on creating clean, high-performing, and visually appealing web experienc
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/efeceka)  
-- 🐙 [GitHub Repositories](https://github.com/efeceka?tab=repositories)
-- 🖥️ [anadolukod.com ](https://anadolukod.com/) 
+- 🐙 [GitHub Repositories](https://github.com/efeceka?tab=repositories)  
+- 🖥️ [anadolukod.com](https://anadolukod.com/)  
 
 ---
 
-> 💬 Feel free to reach out for **collaborations**, **freelance projects**, or **partnerships**.
+> 💬 Open to collaborations, freelance projects, and new professional opportunities.
